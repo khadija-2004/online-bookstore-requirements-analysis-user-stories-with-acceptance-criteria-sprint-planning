@@ -1,4 +1,4 @@
-# online-bookstore-requirements-analysis,-user-stories-with-acceptance-criteria,-sprint-planning
+# Online Bookstore – Requirements Analysis, User Stories with Acceptance Criteria, and Sprint Planning
 
 This project presents a complete **Requirement Analysis and User Story documentation** for an **Online Bookstore system**, designed from a client's perspective using software engineering best practices.
 
@@ -90,8 +90,7 @@ Each sprint includes priority, estimation, and timelines.
 - Software Documentation  
 
 ## Project File
-- `Requirement Analysis, User Story Writing, and Sprint Planning.pdf`
+- 'Requirement Analysis, User Story Writing, and Sprint Planning.pdf'
 
 ## Author
-**Khadija Nafees**  
-BS Software Engineering  
+**Khadija Nafees** 
